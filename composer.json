@@ -14,7 +14,7 @@
   "extra": {
     "map": [
       [
-        "config/fontools",
+        "config/frontools",
         "dev/tools/frontools/config"
       ]
     ]
